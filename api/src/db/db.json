@@ -3,5 +3,26 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "343423iojvdvd",
+      "type": "DOG",
+      "name": "Moose",
+      "createdAt": "5445t54t45"
+    },
+    {
+      "id": "RN48ETnLl3jIT2ttGj6L8",
+      "createdAt": 1594838719379,
+      "name": "batman",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "2hipAMPwdqKspT-YMBzkq",
+      "createdAt": 1594839729030,
+      "name": "hello",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
